@@ -31,13 +31,13 @@
 <details>
   <summary>Certificates</summary>
 
-  <iframe
+  <image
   src="https://www.credential.net/embed/7d6ec0e3-cb75-41e7-84e0-b339428d2e23"
   width="800"
   height="600"
   frameborder="0"
   allowfullscreen>
-  </iframe>
+  </image>
   
 </details>
 <hr/>
