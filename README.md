@@ -21,8 +21,8 @@
 
 <details>
   <summary> Interesting Things </summary>
-  <h3 align="center"> #30 NitesOfCode </h3>
-  [Check out my progress!](https://www.codedex.io/@carmenxufdz/30-nites-of-code)  
+  <h3> #30 NitesOfCode </h3>
+  <a href="https://www.codedex.io/@carmenxufdz/30-nites-of-code">Check out my progress!</a>
   
   ![@carmenxufdz #30NitesOfCode](https://www.codedex.io/api/petStatus?user=carmenxufdz)
 </details>
