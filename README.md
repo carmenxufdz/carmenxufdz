@@ -23,6 +23,7 @@
   <summary> Interesting Things </summary>
   <h3 align="center"> #30 NitesOfCode </h3>
   [Check out my progress!](https://www.codedex.io/@carmenxufdz/30-nites-of-code)  
+  
   ![@carmenxufdz #30NitesOfCode](https://www.codedex.io/api/petStatus?user=carmenxufdz)
 </details>
 
