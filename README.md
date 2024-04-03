@@ -31,13 +31,7 @@
 <details>
   <summary>Certificates</summary>
 
-  <image
-  src="https://www.credential.net/embed/7d6ec0e3-cb75-41e7-84e0-b339428d2e23"
-  width="800"
-  height="600"
-  frameborder="0"
-  allowfullscreen>
-  </image>
+  <a href="https://www.credential.net/embed/7d6ec0e3-cb75-41e7-84e0-b339428d2e23"><image src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/100019375" width="800" height="600" frameborder="0"/></a>
   
 </details>
 <hr/>
