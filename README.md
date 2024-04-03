@@ -6,3 +6,4 @@ I am currently studying Computer Engieneering at the University of Granada (UGR)
   ![@carmenxufdz #30NitesOfCode](https://www.codedex.io/api/petStatus?user=carmenxufdz)
 
 
+![]([https://github.com/carmenxufdz/codedex/blob/main/python/Projects/Create%20a%20GIF/team.gif](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/100019375))
