@@ -5,7 +5,7 @@
 
 - I’m looking to collaborate on **projects that help me evolving within large or medium software projects.**
 
-- How to reach me **carmenxfdz@gmail.com**
+- How to reach me **carmenxfdez@gmail.com**
 
 <hr/>
 
