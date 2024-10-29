@@ -4,12 +4,20 @@
 
 <h2 align="left">📝 About me</h2>
 <div align="left">
+  
 - I am currently studying Computer Engieneering at the University of Granada (UGR). Right now I'm in my fourth year and I'm specializing in Software Engineering 
 
 - I’m looking to collaborate on **projects that help me evolving within large or medium software projects.**
 
 - How to reach me **carmenxfdez@gmail.com**
 </div>
+
+<h2 align="left">📈 Stats</h2>
+<div align="center">
+  <img   src="https://github-readme-stats.vercel.app/api?username=carmenxufdz&show_icons=true&theme=dracula&locale=en" height="150" alt="stats graph"  />
+  <img   src="https://github-readme-stats.vercel.app/api/top-langs?username=carmenxufdz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"  height="150" alt="languages graph"  />
+</div>
+
 <hr/>
 
 <h3 align="left">Connect with me:</h3>
