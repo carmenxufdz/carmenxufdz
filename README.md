@@ -1,12 +1,15 @@
 <h1 align="center">Hi! I'm Carmenchu and I'm finishing my Computer Engineering Degree.</h1>
 <h3 align="center">I am experimenting with different kinds of software development.</h3>
 
+
+<h2 align="left">📝 About me</h2>
+<div align="left">
 - I am currently studying Computer Engieneering at the University of Granada (UGR). Right now I'm in my fourth year and I'm specializing in Software Engineering 
 
 - I’m looking to collaborate on **projects that help me evolving within large or medium software projects.**
 
 - How to reach me **carmenxfdez@gmail.com**
-
+</div>
 <hr/>
 
 <h3 align="left">Connect with me:</h3>
