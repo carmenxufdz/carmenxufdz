@@ -38,15 +38,6 @@
 <hr/>
 
 <details>
-  <summary> Interesting Things </summary>
-  <h3> #30 NitesOfCode </h3>
-  <a href="https://www.codedex.io/@carmenxufdz/30-nites-of-code">Check out my progress!</a>
-  
-  ![@carmenxufdz #30NitesOfCode](https://www.codedex.io/api/petStatus?user=carmenxufdz)
-</details>
-
-
-<details>
   <summary>Certificates</summary>
 
   <a href="https://www.credential.net/embed/7d6ec0e3-cb75-41e7-84e0-b339428d2e23">The Legend of Python - Codédex</a>
