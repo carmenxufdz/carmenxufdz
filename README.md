@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Carmenchu and I'm finishing my Computer Engineering Degree.</h1>
+<h1 align="center">Hi! I'm Carmenchu and I'm a Software Engineer.</h1>
 <h3 align="center">I am experimenting with different kinds of software development.</h3>
 
 
