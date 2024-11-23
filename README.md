@@ -4,11 +4,9 @@
 
 <h2 align="left">📝 About me</h2>
 <div align="left">
-  
 - I am currently studying Computer Engieneering at the University of Granada (UGR). Right now I'm in my fourth year and I'm specializing in Software Engineering 
-
 - I’m looking to collaborate on **projects that help me evolving within large or medium software projects.**
-
+- I'm passionate about exploring new technologies and finding creative solutions to complex problems.
 - How to reach me **carmenxfdez@gmail.com**
 </div>
 
