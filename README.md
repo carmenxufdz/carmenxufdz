@@ -5,7 +5,7 @@
 <h2 align="left">📝 About me</h2>
 <div align="left">
   <ul>
-    <li>I am currently studying Computer Engieneering at the University of Granada (UGR). Right now I'm in my last year and I'm specializing in Software Engineering </li>
+    <li>Graduated in Computer Engineering with a specialization in Software Engineering</li>
     <li>I’m looking to collaborate on projects that help me evolving within large or medium software projects and work on challenging software projects and contribute to the field of computer science</li>
     <li>I'm passionate about exploring new technologies and finding creative solutions to complex problems.</li>
     <li>How to reach me <b>carmenxfdez@gmail.com</b></li>
